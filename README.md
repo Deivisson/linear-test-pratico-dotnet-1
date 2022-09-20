@@ -1,4 +1,4 @@
-# Desafio Linear Sistemas - Processo Dev Junior III / Pleno I dotNet
+# Desafio Linear Sistemas - Processo Dev BackEnd dotNet
 
 O objetivo desta atividade é avaliar conhecimentos práticos na plataforma dotNet. Abaixo instruções para execução:
 
