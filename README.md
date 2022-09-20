@@ -93,6 +93,8 @@ Criar uma aplicação que entregue "CRUDs" básicos, apenas API's, para realizar
 
 - O Projeto pode ser desenvolvimento em qualquer plataforma: Windows, Linux, MacOs e qualquer Editor/IDE (VsCode, Visual Studio) 
 
+- Cobertura de testes automatizados para garantir as regras de negócios são importantes.
+
 
 Bom Trabalho. :-)
 
