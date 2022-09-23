@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  canalvendadb:
+    image: postgres
+
+  pgadmin:
+    image: dpage/pgadmin4
+
+  linearsistemas.canaisvendasprodutos.api:
+    image: ${DOCKER_REGISTRY-}linearsistemascanaisvendasprodutosapi
+    build:
+      context: .
+      dockerfile: src/LinearSistemas.CanaisVendasProdutos/Dockerfile
+
+volumes:
+  postgres_data:
+  pgadmin_data:
