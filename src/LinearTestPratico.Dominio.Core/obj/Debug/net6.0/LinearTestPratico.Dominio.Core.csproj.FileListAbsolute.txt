@@ -1,0 +1,12 @@
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\bin\Debug\net6.0\LinearTestPratico.Dominio.Core.deps.json
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\bin\Debug\net6.0\LinearTestPratico.Dominio.Core.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\bin\Debug\net6.0\LinearTestPratico.Dominio.Core.pdb
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.csproj.AssemblyReference.cache
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.AssemblyInfoInputs.cache
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.AssemblyInfo.cs
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.csproj.CoreCompileInputs.cache
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\refint\LinearTestPratico.Dominio.Core.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\LinearTestPratico.Dominio.Core.pdb
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio.Core\obj\Debug\net6.0\ref\LinearTestPratico.Dominio.Core.dll

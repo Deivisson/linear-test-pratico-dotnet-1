@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="6.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LinearTestPartico.Infra.Data\LinearTestPartico.Infra.Data.csproj" />
+    <ProjectReference Include="..\LinearTestPratico.Aplicacao\LinearTestPratico.Aplicacao.csproj" />
+    <ProjectReference Include="..\LinearTestPratico.Infra.CrossCutting.Identity\LinearTestPratico.Infra.CrossCutting.Identity.csproj" />
+  </ItemGroup>
+
+</Project>
