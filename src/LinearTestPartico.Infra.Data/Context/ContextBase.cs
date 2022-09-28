@@ -9,7 +9,10 @@ namespace LinearTestPartico.Infra.Data.Context
 {
     public class ContextBase : DbContext
     {
-        public ContextBase(DbContextOptions<ContextBase> options) : base(options) { }
+        public ContextBase(DbContextOptions<ContextBase> options) : base(options) 
+        {
+            Database.Migrate();
+        }
 
         #region DbSets
 
