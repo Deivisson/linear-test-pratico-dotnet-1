@@ -98,6 +98,14 @@ Criar uma aplicação que entregue "CRUDs" básicos, apenas API's, para realizar
 
 Bom Trabalho. :-)
 
+### Instruções
+- docker compose -f "docker-compose.debug.yml" up -d --build 
+    - run pasta raiz
+    - Docker instalado
+
+### Local Swagger
+- http://localhost:8081/swagger/index.html
+
 
 
 

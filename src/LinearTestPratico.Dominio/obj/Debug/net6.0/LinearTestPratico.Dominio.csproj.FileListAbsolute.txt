@@ -1,0 +1,15 @@
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\bin\Debug\net6.0\LinearTestPratico.Dominio.deps.json
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\bin\Debug\net6.0\LinearTestPratico.Dominio.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\bin\Debug\net6.0\LinearTestPratico.Dominio.pdb
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\bin\Debug\net6.0\LinearTestPratico.Dominio.Core.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\bin\Debug\net6.0\LinearTestPratico.Dominio.Core.pdb
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.csproj.AssemblyReference.cache
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.AssemblyInfoInputs.cache
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.AssemblyInfo.cs
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.csproj.CoreCompileInputs.cache
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.csproj.CopyComplete
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\refint\LinearTestPratico.Dominio.dll
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\LinearTestPratico.Dominio.pdb
+D:\Elson-Git\AspNet\linear-test-pratico-dotnet-1\src\LinearTestPratico.Dominio\obj\Debug\net6.0\ref\LinearTestPratico.Dominio.dll
