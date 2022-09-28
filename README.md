@@ -98,7 +98,7 @@ Criar uma aplicação que entregue "CRUDs" básicos, apenas API's, para realizar
 
 Bom Trabalho. :-)
 
-#### Instruções
+### Instruções
 - docker compose -f "docker-compose.debug.yml" up -d --build 
     - run pasta raiz
     - Docker instalado
